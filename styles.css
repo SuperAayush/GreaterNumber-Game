@@ -1,0 +1,39 @@
+h1{
+  text-align: center;
+  margin-top: 100px;
+  font-family: cursive;
+  font-size: 5rem;
+  color: red;
+  display: block;
+  height: 100px;
+}
+body{
+  background-color: black;
+}
+h3{
+  color: yellow;
+  font-size: 2rem;
+  font-family: fantasy;
+}
+.nothin{
+  display: contents;
+  font-size: 20rem;
+  height: 200px;
+}
+.nothin1{
+  display: contents;
+  font-size: 20rem;
+  height: 200px;
+}
+.container1{
+  width: 20%;
+  display:inline-grid;
+  margin-left: 450px;
+  height: 300px;
+}
+.container2{
+  margin-left: 200px;
+  height: 300px;
+  width: 20%;
+  display: inline-grid;
+}
